@@ -29,6 +29,6 @@ ZENODO:
 
 El dataset generado se ha subido en formato .csv a Zenodo
 
-Link: https://github.com/creinaf/TCVD-Practica-1-Web-scraping
+Link: https://zenodo.org/record/6445834
 
 DOI: 10.5281/zenodo.6445834
